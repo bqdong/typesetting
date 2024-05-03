@@ -1,0 +1,6 @@
+[book]
+authors = ["bqdong"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "Typesetting"
